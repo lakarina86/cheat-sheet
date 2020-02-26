@@ -1,0 +1,65 @@
+body {
+    /* background-image: url('https://image.freepik.com/free-photo/modern-workplace-with-creative-desk-with-plants-have-blue-wall_41470-924.jpg'); */
+    background-image: url('https://images.unsplash.com/photo-1513077202514-c511b41bd4c7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    background-attachment: fixed;
+    font-family: 'Indie Flower', cursive;
+    text-align: left;
+    /* background-color: cornsilk; */
+    /* color: olivedrab; */
+    color:rgb(202, 147, 8);
+    text-align: right;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.html, .css, th, td {
+    text-align: center;
+    border: 2px solid rgb(92, 93, 95);
+    border-radius: 8px;
+    border-collapse: collapse;
+    padding: 6px;
+    background-color: rgba(255, 255, 255, 0.5);
+    opacity: 1;
+}
+
+th {
+    font-weight: bold;
+    font-size: 20px;
+    background-color: whitesmoke;
+}
+
+tr:hover {
+    background-color: rgb(141, 137, 137, 0.5);
+}
+
+
+.cheatseet-table { 
+    width: 100%
+}
+
+h1, h2 {
+    font-weight: bold;
+}
+
+footer {
+    /* background-color: rgba(236, 172, 236, 0.6); */
+    font-weight: bold;
+    text-align: center;
+}
+
+.container {
+    padding: 16px;
+    display: flex;
+    justify-content: flex-end;
+    margin-left: auto;
+    margin-right: auto  ;
+}
+
+.content {
+    width: 700px;
+    text-align: center;
+}
