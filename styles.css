@@ -16,7 +16,7 @@ body {
     font-size: 18px;
 }
 
-.html, .css, th, td {
+.html, .css, .git, th, td {
     text-align: center;
     border: 2px solid rgb(92, 93, 95);
     border-radius: 8px;
